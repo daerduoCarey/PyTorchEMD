@@ -1,4 +1,4 @@
-# PyTorch Point-cloud Earth-Mover-Distance (EMD) Implementation
+# PyTorch Wrapper for Point-cloud Earth-Mover-Distance (EMD)
 
 ## Dependency
 
