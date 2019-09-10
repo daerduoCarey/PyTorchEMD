@@ -23,7 +23,7 @@ Check `test_emd_loss.py` for example.
 
 ## Author
 
-The cuda code is originally written by Haoqiang Fan. The PyTorch version is modified by Kaichun Mo.
+The cuda code is originally written by Haoqiang Fan. The PyTorch wrapper is written by Kaichun Mo. Also, Jiayuan Gu provided helps.
 
 ## License
 
